@@ -4,7 +4,7 @@
 
 Source: [[2. Sources/Videos/Therapist Plays The Stanley Parable - 3\|Therapist Plays The Stanley Parable - 3]]
 ## Notes
-- [[1. Knowledge/Concepts/Psychology/Locus of Control 🌱\|Locus of Control 🌱]] - "places on control", where do you place yourself on the spectrum?
+- [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]] - "places on control", where do you place yourself on the spectrum?
 
 - **The locus of control is a spectrum between Internal and External. Internal being 'Everything that happens to me is within my control' and external being "Everything that happens to me is outside of my control"**
 

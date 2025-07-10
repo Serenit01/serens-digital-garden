@@ -14,7 +14,7 @@ Here you will find:
 > This is not a blog. This is where I will store my knowledge on the different things I learn and study. This is closer to a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) or a [[1. Knowledge/Concepts/Digital Garden/Digital Garden 🌱\|Digital Garden 🌱]] where as I create notes, new connections between notes will form and I can see where each piece of knowledge that I garner are connecting, and where the gaps in my knowledge on certain subjects are! 
 
 My current structure for this digital garden is:
-- 🌱 **Seeds:** The beginnings of your knowledge. Small thoughts or ideas that you want/need to expand upon and are not currently fleshed out or well-researched.
+- 🌱 **Seeds:** The beginnings of your knowledge. Small thoughts or ideas that you want/need to expand upon and are not currently fleshed out or well-researched, don't have many connections or notes that I need need a few more sources before I can call them a complete piece of knowledge.
 - 🌳 **Trees:** More expanded knowledge that now have a lot of other links to more information, expanding upon the original idea. Think of the branches of a tree, they are connected to the main idea, but have branched into their own knowledge.
 - 🍎 **Fruits:** Finalized ideas, thoughts or essays that have solidified themselves in the garden and require little to no tending anymore.
 - 🥀 **Defunct Thought:** This is one that I personally use, it means that I no longer agree with the content inside the note or have abandoned it for now.

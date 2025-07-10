@@ -6,4 +6,4 @@
 
 From a channel where a licenced therapist plays games and analyses them through his role as a therapist. 
 
-This particular videos talks a lot about the [[1. Knowledge/Concepts/Psychology/Locus of Control 🌱\|Locus of Control 🌱]] and how that affects a person's outlook on life and their peace with what is happening in their life. 
+This particular videos talks a lot about the [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]] and how that affects a person's outlook on life and their peace with what is happening in their life. 

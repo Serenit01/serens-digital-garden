@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/books/1984-by-george-orwell/"}
+{"dg-publish":true,"permalink":"/2-sources/books/1984-by-george-orwell/","tags":["source","book"]}
 ---
 
 -

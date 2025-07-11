@@ -29,7 +29,9 @@ One big reason I wanted to make this was that, when you write about the things y
 
 I am starting out small and slow, and I know I have a very small and surface-level idea of most things at the moment, since I am young and have suffered a technology addiction pretty much since I had the capacity to think, but I hope to grow my knowledge as I go along! As my knowledge grows, my opinions and ideas may change, but I will not delete notes. I will just change the name to include [defunct thought 🥀] or something similar as this happens. That way I can look back and see how far I have come! 
 
-**Please note, if I seem to have a surface-level understanding of anything, that's because I do and I am working to deepen my knowledge! This entire site is not to be taken as fact, or meant for anyone other than myself really to give any credence to. You may disagree with some things I have written, and that's okay.**
+**Please note, if I seem to have a surface-level understanding of anything, that's because I do and I am working to deepen my knowledge! This entire garden is not to be taken as fact, or meant for anyone other than myself really to give any credence to. You may disagree with some things I have written, and that's okay. 
+
+**Also please note I do a lot of research on things that I do not agree with (e.g political ideologies, concepts from fandom etc to better understand both why I disagree with those things and to better understand why someone else might agree with those things.) Not every single thing written in this digital garden is in line with my personal beliefs, I just let my research follow my curiosity.****
 
 My current interests include:
 - Reading (A mix of classic literature and more modern sci-fi and fantasy stories)

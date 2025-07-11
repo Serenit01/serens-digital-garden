@@ -5,6 +5,21 @@
 # Welcome
 Welcome to my digital garden, started on the 30th of June 2025.
 
+```ktr-heatmap
+WEEKS 52
+```
+```ktr-slots
+CURRENT_WEEK,
+```
+```ktr-slots
+```
+```ktr-slots
+```
+```ktr-entries
+
+```
+
+#### About
 I started this as a place to expand my knowledge and find links between all the things I have been studying or thinking about to make a map of my knowledge! 
 
 Here you will find:

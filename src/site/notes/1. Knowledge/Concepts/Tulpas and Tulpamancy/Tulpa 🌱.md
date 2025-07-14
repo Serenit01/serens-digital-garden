@@ -8,6 +8,7 @@ It is sentient and has it's own opinions, thoughts and personality separate from
 Hosts say they feel as real as any person. 
 
 
+
 - Hosts can have more than one active Tulpa at a time. 
 
 - The term originally comes from Tibetan Buddhism. 

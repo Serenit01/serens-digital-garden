@@ -10,7 +10,7 @@ I started this as a place to expand my knowledge and find links between all the 
 Here you will find:
 - Notes on things I have read, watched, or listened to and how they have informed my knowledge
 
-> [!Please Note]
+> [!Note]
 > This is not a blog. This is where I will store my knowledge on the different things I learn and study. This is closer to a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) or a [[1. Knowledge/Concepts/The Web/Digital Garden/Digital Garden 🌱\|Digital Garden 🌱]] where as I create notes, new connections between notes will form and I can see where each piece of knowledge that I garner are connecting, and where the gaps in my knowledge on certain subjects are! 
 
 My current structure for this digital garden is:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-notes/video-notes/how-to-break-free-from-life-s-endless-cycles-healthy-gamer-notes/","tags":["buddhist-teachings","#psychology"]}
+{"dg-publish":true,"permalink":"/3-notes/video-notes/how-to-break-free-from-life-s-endless-cycles-healthy-gamer-notes/","tags":["#notes"]}
 ---
 
 Source: [[2. Sources/Videos/How to Break Free From Life's Endless Cycles - Healthy Gamer\|How to Break Free From Life's Endless Cycles - Healthy Gamer]]

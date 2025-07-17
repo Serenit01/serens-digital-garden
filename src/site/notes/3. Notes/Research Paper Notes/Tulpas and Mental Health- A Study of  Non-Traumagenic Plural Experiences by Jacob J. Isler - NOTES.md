@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-notes/research-paper-notes/tulpas-and-mental-health-a-study-of-non-traumagenic-plural-experiences-by-jacob-j-isler-notes/","tags":["research-paper"]}
+{"dg-publish":true,"permalink":"/3-notes/research-paper-notes/tulpas-and-mental-health-a-study-of-non-traumagenic-plural-experiences-by-jacob-j-isler-notes/","tags":["#notes"]}
 ---
 
 The purpose of this research paper is to 'clarify' the existence of associations between the high frequency of disorders among tulpamancers and the reports of improvements in relation to those disorders from practicing tulpamancy. 

@@ -4,7 +4,8 @@
 
 # Welcome
 Welcome to my digital garden, started on the 30th of June 2025.
-<br>
+ Contact: serenitysrest01@proton.me
+ Feel free to contact me about anything in my digital garden if you wish!
 
 <br>
 ## Get Around! 

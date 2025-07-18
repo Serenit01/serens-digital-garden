@@ -86,9 +86,11 @@ My current interests include:
 
 
 #### How did I make this?
-I use [Obsidian](https://obsidian.md/) as the writing program for this page. I love it, it's free. Also, this page is run using the [Digital Garden plugin ](https://dg-docs.ole.dev/getting-started/01-getting-started/)for Obsidian using [Vercel](https://vercel.com/) as the host. If you also want to make one, please note that Vercel does not accept Proton emails at the moment and you will need to use some other provider in order to make an account. 
+I use [Obsidian](https://obsidian.md/) as the writing program for this page. I love it, it's free. 
 
-#### Why post this publically?
+Also, this page is run using the [Digital Garden plugin ](https://dg-docs.ole.dev/getting-started/01-getting-started/)for Obsidian using [Vercel](https://vercel.com/) as the host. If you also want to make one, please note that Vercel does not accept Proton emails at the moment and you will need to use some other provider in order to make an account. 
+
+#### Why post this publicly?
 I dunno, fun? I like putting the things I am doing up on the internet for other people to see! There are tons of things across the internet that others post mainly for themselves that I also enjoy looking at, and I wanted to do the same, because maybe there is someone out there who is also interested in some of the topics I am looking into here! 
 
 I also want to inspire others to make their own digital gardens or research projects, because I believe there is a decline in people who want to learn things and with the rise of AI where people just let the AI tell them what to think, I feel learning how to research and think for yourself is more important now than ever.  

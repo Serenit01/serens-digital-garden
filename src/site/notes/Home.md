@@ -94,6 +94,7 @@ Also, this page is run using the [Digital Garden plugin ](https://dg-docs.ole.de
 I dunno, fun? I like putting the things I am doing up on the internet for other people to see! There are tons of things across the internet that others post mainly for themselves that I also enjoy looking at, and I wanted to do the same, because maybe there is someone out there who is also interested in some of the topics I am looking into here! 
 
 I also want to inspire others to make their own digital gardens or research projects, because I believe there is a decline in people who want to learn things and with the rise of AI where people just let the AI tell them what to think, I feel learning how to research and think for yourself is more important now than ever.  
+Not to mention, this can be a really awesome ideation device! Once you have a bunch of notes, you begin to notice that completely different topics eventually gain a link to one another, for example you have two notes in different topics and realize, "Hang on, I think these two ideas have some kind of correlation" So you make a new note, and BAM! You've got an idea for a piece of art, or an essay, or a zine or anything else you love making. 
 
 ----------------------
 ## Get Started
@@ -107,7 +108,8 @@ I have structured things like this:
 
 ***Notes:*** This is where write all my notes on each of my *sources* that I read. So in there I will put quotes and how I interoperate them, notes on what I thought on certain things brought up in the sources I read and other things that stood out to me. 
 
-***Knowledge:*** Everything in this folder are structured and thought-out notes that I have written on topics after I have done a bunch of research! These are my more solidified notes where, after I have done a lot of reading on a certain subject, I will write down all my knowledge and what I remember about those things in here in my own words, independent of the source material. These are the only notes in the digital garden that will use the notes status emojis to show their stage of growth, as these are the ones that hold my actual knowledge, while the others do not. 
+***Knowledge:*** Everything in this folder are structured and thought-out notes that I have written on topics *after* I have done research! These are my more solidified notes where, after I have done a lot of reading on a certain subject, I will write down all the knowledge and idea I gained in my own words, and independent of the source material. 
+These are the only notes in the digital garden that will use the notes status emojis (🌱🌳🍎🥀) to show their stage of growth, as these are the ones that hold my actual knowledge, while the others do not. 
 These notes will be as concise as possible (trying to keep them to around 200 words as much as possible).
 
 ***Musings:*** This is where I write thoughts about topics and maybe even questions to myself to look into later

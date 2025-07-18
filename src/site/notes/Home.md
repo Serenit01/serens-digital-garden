@@ -4,9 +4,9 @@
 
 # Welcome
 Welcome to my digital garden, started on the 30th of June 2025.
+<br>
 
-
-
+<br>
 ## Get Around! 
 Here are some of the topics in this digital garden that have a lot branches currently! They are typically higher concepts or concepts that have a lot of links to other things within them. 
 

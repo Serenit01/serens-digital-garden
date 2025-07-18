@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/humanity-s-many-solutions-to-loneliness/"}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/humanity-s-many-solutions-to-loneliness/","tags":["psychology","main-concept"]}
 ---
 
+(unfinished note)
 Humans have come up with many different ways to combat loneliness. Some healthy, others maybe not so much-  that depends on your outlook. 
 In an age were it seems we are lonelier than ever, have less connections to community and spend more of our lives looking at screens than not, it can be hard to not feel lonely at some point or another. 
 

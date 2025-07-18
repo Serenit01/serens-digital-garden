@@ -12,6 +12,7 @@ Here are some of the topics in this digital garden that have a lot branches curr
 
 ### Psychology
 - [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]]
+- [[1. Knowledge/Concepts/Humanity's Many Solutions to Loneliness 🌱\|Humanity's Many Solutions to Loneliness 🌱]]
 
 { .block-language-dataview}
 ### Gardening

@@ -8,6 +8,7 @@ Welcome to my digital garden, started on the 30th of June 2025.
 
 
 ## Get Around! 
+Here are some of the topics in this digital garden that have a lot branches currently! They are typically higher concepts or concepts that have a lot of links to other things within them. 
 
 ### Psychology
 - [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]]
@@ -28,13 +29,15 @@ Welcome to my digital garden, started on the 30th of June 2025.
 
 
 ### Books
+The books I have studied inside my digital garden.
 | File                                                                 | Author        | Cover                                                                                                                     | Genre   | Date               |
 | -------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ |
 | [[2. Sources/Books/1984 by George Orwell\|1984 by George Orwell]] | George Orwell | ![\|110](http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Fiction | September 03, 2013 |
 
 { .block-language-dataview}
 
-### About
+
+## About
 I love learning, and I often let my curiosity take me down rabbit holes. 
 I started this as a place to expand my knowledge and find links between all the things I have been studying or thinking about to make a map of my knowledge! 
 

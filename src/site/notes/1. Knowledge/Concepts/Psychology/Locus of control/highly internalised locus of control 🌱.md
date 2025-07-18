@@ -21,4 +21,4 @@ Sources:
 
 
 Notes:
-[[3. Notes/Video Notes/Therapist Plays The Stanley Parable - 3 - NOTES\|Therapist Plays The Stanley Parable - 3 - NOTES]]
+[[2. Sources/1. Source Notes/Video Notes/Therapist Plays The Stanley Parable - 3 - NOTES\|Therapist Plays The Stanley Parable - 3 - NOTES]]

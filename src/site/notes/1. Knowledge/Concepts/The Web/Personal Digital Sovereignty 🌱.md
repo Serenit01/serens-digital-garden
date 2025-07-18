@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/personal-digital-sovereignty/","tags":["Personal-Digital-Sovereignty","privacy","indie-web"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/personal-digital-sovereignty/","tags":["Personal-Digital-Sovereignty","privacy","indie-web","#main-concept","#buddhist-teachings","#tech"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/locus-of-control/locus-of-control/","tags":["psychology"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/locus-of-control/locus-of-control/","tags":["psychology","#main-concept"]}
 ---
 
 Locus of control is a concept in psychology about the degree in which someone believes they have control over the events in their life. 
@@ -17,4 +17,4 @@ Your locus of control is formed from early childhood and parenting and can solid
 Sources: 
 [[2. Sources/Videos/Therapist Plays The Stanley Parable - 3\|Therapist Plays The Stanley Parable - 3]]
 
-Notes: [[3. Notes/Video Notes/Therapist Plays The Stanley Parable - 3 - NOTES\|Therapist Plays The Stanley Parable - 3 - NOTES]]
+Notes: [[2. Sources/1. Source Notes/Video Notes/Therapist Plays The Stanley Parable - 3 - NOTES\|Therapist Plays The Stanley Parable - 3 - NOTES]]

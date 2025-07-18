@@ -4,7 +4,35 @@
 
 # Welcome
 Welcome to my digital garden, started on the 30th of June 2025.
-#### About
+
+## Get Around! 
+
+### Psychology
+- [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]]
+
+{ .block-language-dataview}
+### Gardening
+
+{ .block-language-dataview}
+
+### Tech & The Web
+- [[1. Knowledge/Concepts/The Web/Personal Digital Sovereignty 🌱\|Personal Digital Sovereignty 🌱]]
+
+{ .block-language-dataview}
+
+### Literature
+
+
+
+
+### Books
+| File                                                                 | Author        | Cover                                                                                                                     | Genre   | Date               |
+| -------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------ |
+| [[2. Sources/Books/1984 by George Orwell\|1984 by George Orwell]] | George Orwell | ![\|110](http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Fiction | September 03, 2013 |
+
+{ .block-language-dataview}
+
+### About
 I love learning, and I often let me curiosity take me down rabbit holes. 
 I started this as a place to expand my knowledge and find links between all the things I have been studying or thinking about to make a map of my knowledge! 
 
@@ -12,7 +40,7 @@ Here you will find:
 - Notes on things I have read, watched, or listened to and how they have informed my knowledge on many different topics
 
 > [!Note]
-> This is not a blog. This is where I will store my knowledge on the different things I learn and study. This is closer to a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) or a [[1. Knowledge/Concepts/The Web/Digital Garden/Digital Garden 🌱\|Digital Garden 🌱]] where as I create notes, new connections between notes will form and I can see where each piece of knowledge that I garner are connecting, and where the gaps in my knowledge on certain subjects are! 
+> This is not a blog. This is where I will store my knowledge on the different things I learn and study. This is closer to a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) or a [[1. Knowledge/Concepts/The Web/Digital Garden/Digital Garden 🌱\|Digital Garden 🌱]] (kind of a mix between the two) where as I create notes, new connections between notes will form and I can see where each piece of knowledge that I garner are connecting, and where the gaps in my knowledge on certain subjects are!
 
 My current structure for this digital garden is:
 - 🌱 **Seeds:** The beginnings of your knowledge. Small thoughts or ideas that you want/need to expand upon and are not currently fleshed out or well-researched, don't have many connections or notes that I feel need a few more sources before I can call them a 'complete' piece of knowledge.
@@ -35,15 +63,27 @@ My current interests include:
 - Reading (A mix of classic literature and more modern sci-fi and fantasy stories)
 - Sewing
 - Filmmaking
-- Story Writing
+- Story Writing and Story/Character analysis
 - 3D Modelling
 - Gardening
 - Random little bits of psychology
 
 ^ My site will probably start out with a lot of notes on these kinds of things. 
 
+---
+
+
+
+-----
+
+
 #### How did I make this?
 I use [Obsidian](https://obsidian.md/) as the writing program for this page. I love it, it's free. Also, this page is run using the [Digital Garden plugin ](https://dg-docs.ole.dev/getting-started/01-getting-started/)for Obsidian using [Vercel](https://vercel.com/) as the host. If you also want to make one, please note that Vercel does not accept Proton emails at the moment and you will need to use some other provider in order to make an account. 
+
+#### Why post this publically?
+I dunno, fun? I like putting the things I am doing up on the internet for other people to see! There are tons of things across the internet that others post mainly for themselves that I also enjoy looking at, and I wanted to do the same, because maybe there is someone out there who is also interested in some of the topics I am looking into here! 
+
+I also want to inspire others to make their own digital gardens or research projects, because I believe there is a decline in people who want to learn things and with the rise of AI where people just let the AI tell them what to think, I feel learning how to research and think for yourself is more important now than ever.  
 
 ----------------------
 ## Get Started

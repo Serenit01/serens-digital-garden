@@ -6,4 +6,4 @@ Link: https://upload.wikimedia.org/wikipedia/commons/d/d5/Tulpas_and_Mental_Heal
 
 
 Notes:
-[[3. Notes/Research Paper Notes/Tulpas and Mental Health- A Study of  Non-Traumagenic Plural Experiences by Jacob J. Isler - NOTES\|Tulpas and Mental Health- A Study of  Non-Traumagenic Plural Experiences by Jacob J. Isler - NOTES]]
+[[2. Sources/1. Source Notes/Research Paper Notes/Tulpas and Mental Health- A Study of  Non-Traumagenic Plural Experiences by Jacob J. Isler - NOTES\|Tulpas and Mental Health- A Study of  Non-Traumagenic Plural Experiences by Jacob J. Isler - NOTES]]

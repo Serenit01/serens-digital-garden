@@ -5,6 +5,8 @@
 # Welcome
 Welcome to my digital garden, started on the 30th of June 2025.
 
+
+
 ## Get Around! 
 
 ### Psychology
@@ -33,7 +35,7 @@ Welcome to my digital garden, started on the 30th of June 2025.
 { .block-language-dataview}
 
 ### About
-I love learning, and I often let me curiosity take me down rabbit holes. 
+I love learning, and I often let my curiosity take me down rabbit holes. 
 I started this as a place to expand my knowledge and find links between all the things I have been studying or thinking about to make a map of my knowledge! 
 
 Here you will find:

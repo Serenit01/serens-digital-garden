@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/1-knowledge/sewing/linen/"}
 ---
 
+
+![laura-guldner-z5gJemzuZ0k-unsplash (1).jpg](/img/user/laura-guldner-z5gJemzuZ0k-unsplash%20(1).jpg)
+
 Material type: Natural
 Made of: Flax
 

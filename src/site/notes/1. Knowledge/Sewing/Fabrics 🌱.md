@@ -17,12 +17,12 @@ These materials are natural and made of material that can biodegrade, however ca
 These materials are man-made and are bad for the environment, but are much cheaper than natural materials. 
 
 > [!Important]
-> - Synthetic materials should not be used for things that will get hot (pot holders, oven mitts etc) as they will melt and could melt into your skin. 
+> - Synthetic materials should not be used for things that will get hot (pot holders, oven mitts etc) as they will melt and could melt into your skin. You should also be careful ironing some synthetic materials.
 
 [[Polyester 🌱\|Polyester 🌱]]
 [[Nylon 🌱\|Nylon 🌱]]
 [[Acrylic 🌱\|Acrylic 🌱]]
-[[Spandex 🌱\|Spandex 🌱]]
+[[Spandex (aka Lycra, Elastane) 🌱\|Spandex (aka Lycra, Elastane) 🌱]]
 
 
 

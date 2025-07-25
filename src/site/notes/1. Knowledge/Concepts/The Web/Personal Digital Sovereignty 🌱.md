@@ -5,7 +5,7 @@
 
 Personal digital sovereignty, while rare at the moment, is all about being in control of your technology and online presence to higher degree than offered by tech companies today. 
 
-This usually involves [[self-hosting\|self-hosting]], [[using free and open-source programs\|using free and open-source programs]] and can also entail using [[Linux\|Linux]] to have more control over your machine, making it as catered to you as you need it to be! 
+This usually involves [[self-hosting\|self-hosting]], making your own [[Home Server 🌳\|Home Server 🌳]], [[using free and open-source programs\|using free and open-source programs]] and can also entail using [[Linux\|Linux]] to have more control over your machine, making it as catered to you as you need it to be! 
 
 It means shutting out big tech by blocking trackers that use and sell all your personal data, keeping your privacy by not letting these companies read all the messages you send to people, and all around just being more in control of how you access the internet. 
 

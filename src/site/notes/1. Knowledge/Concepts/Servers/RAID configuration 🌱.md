@@ -14,7 +14,7 @@ The data is split/striped between the different disks, so if one dies all the da
 This one is fault tolerant. The data is copied on each disk, so if one dies the other disk has a duplicate of all the data.
 
 ### RAID 5
-This one requires 3 or more disks. The data is striped/split across multiple disks alone with [[parity\|parity]]. Parity is used to rebuild the data in the event of a disk failure.
+This one requires 3 or more disks. The data is striped/split across multiple disks alone with [[parity 🌱\|parity 🌱]]. Parity is used to rebuild the data in the event of a disk failure.
 The parity takes up some disk space though. Say you have four 1TB disks, only 3TBs would be usable for data storage as the equivalent of one entire disk would be used to store the parity. 
 
 ### RAID 6

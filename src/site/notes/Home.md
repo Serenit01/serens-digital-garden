@@ -22,6 +22,7 @@ Here are some of the topics in this digital garden that have a lot branches curr
 
 ### Tech & The Web
 - [[1. Knowledge/Concepts/The Web/Personal Digital Sovereignty 🌱\|Personal Digital Sovereignty 🌱]]
+- [[1. Knowledge/Concepts/Servers/What is a Server 🌱\|What is a Server 🌱]]
 
 { .block-language-dataview}
 

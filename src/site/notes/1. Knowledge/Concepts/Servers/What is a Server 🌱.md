@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/what-is-a-server/","tags":["main-concept","self-hosting"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/what-is-a-server/","tags":["main-concept","self-hosting","tech"]}
 ---
 
 A server, in very simple terms, is a computer with a different configuration to your desktop computer. 

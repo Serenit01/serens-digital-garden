@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/raid-configuration/"}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/raid-configuration/","created":"2025-07-25T10:58:51.739+10:00","updated":"2025-07-25T11:32:35.303+10:00"}
 ---
 
 RAID stands for "Redundant Array of Independent Disks". It is the configuration of the hard drives within your server that can prevent data loss should one of your drives fail. 

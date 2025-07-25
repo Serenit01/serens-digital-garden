@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-07-18T20:12:39.343+10:00"}
 ---
 
 # Welcome
@@ -21,7 +21,7 @@ Here are some of the topics in this digital garden that have a lot branches curr
 { .block-language-dataview}
 
 ### Tech & The Web
-- [[Home Server 🌳\|Home Server 🌳]]
+- [[1. Knowledge/Concepts/Servers/Home Server 🌳\|Home Server 🌳]]
 - [[1. Knowledge/Concepts/The Web/Personal Digital Sovereignty 🌱\|Personal Digital Sovereignty 🌱]]
 - [[1. Knowledge/Concepts/Servers/What is a Server 🌱\|What is a Server 🌱]]
 

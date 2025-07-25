@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/locus-of-control/locus-of-control/","tags":["psychology","#main-concept"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/locus-of-control/locus-of-control/","tags":["psychology","#main-concept"],"created":"2025-07-10T20:43:53.696+10:00","updated":"2025-07-18T12:15:34.082+10:00"}
 ---
 
 Locus of control is a concept in psychology about the degree in which someone believes they have control over the events in their life. 

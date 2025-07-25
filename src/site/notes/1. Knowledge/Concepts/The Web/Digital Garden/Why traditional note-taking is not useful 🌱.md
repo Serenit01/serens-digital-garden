@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/digital-garden/why-traditional-note-taking-is-not-useful/","tags":["digitalgarden"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/digital-garden/why-traditional-note-taking-is-not-useful/","tags":["digitalgarden"],"created":"2025-07-10T13:50:03.930+10:00","updated":"2025-07-10T14:13:50.514+10:00"}
 ---
 
 Taking notes and placing them into categories limits how you can link them and stifles your creativity. 

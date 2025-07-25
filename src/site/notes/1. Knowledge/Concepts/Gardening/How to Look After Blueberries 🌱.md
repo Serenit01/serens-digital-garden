@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/gardening/how-to-look-after-blueberries/","tags":["plant-care","#gardening"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/gardening/how-to-look-after-blueberries/","tags":["plant-care","#gardening"],"created":"2025-07-17T15:37:17.343+10:00","updated":"2025-07-17T17:16:31.439+10:00"}
 ---
 
 ### Blueberry bush requirements

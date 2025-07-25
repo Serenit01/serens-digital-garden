@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/locus-of-control/highly-externalised-locus-of-control/","tags":["psychology"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/locus-of-control/highly-externalised-locus-of-control/","tags":["psychology"],"created":"2025-07-10T21:00:57.248+10:00","updated":"2025-07-11T08:53:48.079+10:00"}
 ---
 
 [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]]

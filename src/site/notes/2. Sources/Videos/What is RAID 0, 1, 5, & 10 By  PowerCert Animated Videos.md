@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/videos/what-is-raid-0-1-5-and-10-by-power-cert-animated-videos/"}
+{"dg-publish":true,"permalink":"/2-sources/videos/what-is-raid-0-1-5-and-10-by-power-cert-animated-videos/","created":"2025-07-25T10:59:08.268+10:00","updated":"2025-07-25T11:29:45.015+10:00"}
 ---
 
 #source 

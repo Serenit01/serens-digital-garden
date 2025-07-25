@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/humanity-s-many-solutions-to-loneliness/","tags":["psychology","main-concept"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/humanity-s-many-solutions-to-loneliness/","tags":["psychology","main-concept"],"created":"2025-07-18T14:27:09.470+10:00","updated":"2025-07-22T17:55:36.047+10:00"}
 ---
 
 (unfinished note)

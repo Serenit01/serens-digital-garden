@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/sewing/fabrics/"}
+{"dg-publish":true,"permalink":"/1-knowledge/sewing/fabrics/","created":"2025-07-20T10:43:19.607+10:00","updated":"2025-07-22T17:44:20.016+10:00"}
 ---
 
 In [[Sewing\|Sewing]] there are so many different kinds of fabrics to sew from.

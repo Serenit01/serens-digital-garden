@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/sewing/linen/"}
+{"dg-publish":true,"permalink":"/1-knowledge/sewing/linen/","created":"2025-07-20T14:37:54.445+10:00","updated":"2025-07-22T17:49:21.163+10:00"}
 ---
 
 

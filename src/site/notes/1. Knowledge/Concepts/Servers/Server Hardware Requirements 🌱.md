@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/server-hardware-requirements/","tags":["self-hosting"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/server-hardware-requirements/","tags":["self-hosting"],"created":"2025-07-25T10:13:59.275+10:00","updated":"2025-07-25T11:17:11.012+10:00"}
 ---
 
 [[1. Knowledge/Concepts/Servers/What is a Server 🌱\|What is a Server 🌱]]

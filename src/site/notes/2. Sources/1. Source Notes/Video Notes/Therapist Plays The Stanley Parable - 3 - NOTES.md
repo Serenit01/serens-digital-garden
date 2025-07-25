@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/1-source-notes/video-notes/therapist-plays-the-stanley-parable-3-notes/","tags":["notes"]}
+{"dg-publish":true,"permalink":"/2-sources/1-source-notes/video-notes/therapist-plays-the-stanley-parable-3-notes/","tags":["notes"],"created":"2025-07-10T18:53:47.242+10:00","updated":"2025-07-10T21:16:37.187+10:00"}
 ---
 
 Source: [[2. Sources/Videos/Therapist Plays The Stanley Parable - 3\|Therapist Plays The Stanley Parable - 3]]

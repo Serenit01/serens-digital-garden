@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/how-to-break-free-from-life-s-cycles/","tags":["psychology","#buddhist-teachings"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/psychology/how-to-break-free-from-life-s-cycles/","tags":["psychology","#buddhist-teachings"],"created":"2025-07-16T19:42:45.828+10:00","updated":"2025-07-16T21:55:34.293+10:00"}
 ---
 
 Examples of a cycle:

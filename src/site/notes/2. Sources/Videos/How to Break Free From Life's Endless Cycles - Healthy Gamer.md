@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/videos/how-to-break-free-from-life-s-endless-cycles-healthy-gamer/","tags":["#source","#video"]}
+{"dg-publish":true,"permalink":"/2-sources/videos/how-to-break-free-from-life-s-endless-cycles-healthy-gamer/","tags":["#source","#video"],"created":"2025-07-16T18:52:54.552+10:00","updated":"2025-07-16T19:41:51.933+10:00"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EPH7d8uWQso?si=fa2OXWQzsXsAmzUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

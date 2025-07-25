@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/digital-garden/digital-garden/","tags":["digitalgarden","#indie-web"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/digital-garden/digital-garden/","tags":["digitalgarden","#indie-web"],"created":"2025-07-10T13:14:52.361+10:00","updated":"2025-07-14T18:25:47.585+10:00"}
 ---
 
 

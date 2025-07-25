@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/tulpas-and-tulpamancy/tulpa/","tags":["psychology"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/tulpas-and-tulpamancy/tulpa/","tags":["psychology"],"created":"2025-07-11T16:10:59.525+10:00","updated":"2025-07-14T17:37:32.322+10:00"}
 ---
 
 A Tulpa is a being that is created within one's head. It could be considered an '[[imaginary friend\|imaginary friend]]'. But is much more than that. 

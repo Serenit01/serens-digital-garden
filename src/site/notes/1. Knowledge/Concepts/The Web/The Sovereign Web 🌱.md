@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/the-sovereign-web/","tags":["Personal-Digital-Sovereignty","#indie-web"]}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/the-web/the-sovereign-web/","tags":["Personal-Digital-Sovereignty","#indie-web"],"created":"2025-07-14T17:37:50.842+10:00","updated":"2025-07-14T18:24:45.354+10:00"}
 ---
 
 [The Sovereign Web](https://sovereignweb.thecozy.cat/about/) is a offshoot of the 'Indie Web' and 'Small Web' movements. 

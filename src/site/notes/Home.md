@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-07-18T20:12:39.343+10:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-07-26T11:32:06.983+10:00"}
 ---
 
 # Welcome
@@ -9,23 +9,27 @@ Welcome to my digital garden, started on the 30th of June 2025.
 
 <br>
 ## Get Around! 
+
 Here are some of the topics in this digital garden that have a lot branches currently! They are typically higher concepts or concepts that have a lot of links to other things within them. 
+
+### Tech & The Web
+- [[1. Knowledge/Concepts/Servers/Home Server 🌳\|Home Server 🌳]]
+- [[1. Knowledge/Concepts/The Web/Personal Digital Sovereignty 🌱\|Personal Digital Sovereignty 🌱]]
+- [[1. Knowledge/Concepts/Servers/What is a Server 🌱\|What is a Server 🌱]]
+- [[What is a VPN and The Downsides🌱\|What is a VPN and The Downsides🌱]]
+
+{ .block-language-dataview}
 
 ### Psychology
 - [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]]
 - [[1. Knowledge/Concepts/Humanity's Many Solutions to Loneliness 🌱\|Humanity's Many Solutions to Loneliness 🌱]]
 
 { .block-language-dataview}
+
 ### Gardening
 
 { .block-language-dataview}
 
-### Tech & The Web
-- [[1. Knowledge/Concepts/Servers/Home Server 🌳\|Home Server 🌳]]
-- [[1. Knowledge/Concepts/The Web/Personal Digital Sovereignty 🌱\|Personal Digital Sovereignty 🌱]]
-- [[1. Knowledge/Concepts/Servers/What is a Server 🌱\|What is a Server 🌱]]
-
-{ .block-language-dataview}
 
 ### Literature
 

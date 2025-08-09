@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/the-you-tube-amv-editor-apocalypse-2025/","tags":["editing/vidding","fan-editing-history","interesting"],"created":"2025-08-09T14:05:51.362+10:00","updated":"2025-08-09T14:22:54.320+10:00"}
+{"dg-publish":true,"permalink":"/1-knowledge/the-you-tube-amv-editor-apocalypse-2025/","tags":["editing/vidding","fan-editing-history","interesting"],"created":"2025-08-09T14:05:51.362+10:00","updated":"2025-08-09T16:36:04.108+10:00"}
 ---
 
 There have been many purges of fan editors' channels on YouTube over the years, where one day, editors will wake up and find their YouTube channel has just been obliterated. 
@@ -14,7 +14,7 @@ Some people had had their channels for more than 15 years, and all their videos,
 
 Many editors began to speculate to the reason as to why this was happening yet again to the editing community. Some blamed YouTube implementing new AI rules, or speculated that maybe YouTube was experimenting with some new AI channel monitoring program that was incorrectly flagging everyone's channels. 
 
-It's still too soon to tell, as we wait for the appeals to get reviewed by YouTube. 
+It's still too soon to tell, as we wait for the appeals to get reviewed by YouTube. A few editors have managed to get their channels back through the appeals process, luckily, but a few others have yet to hear back from YouTube.
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-08T12:11:24.702+10:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-09T14:19:17.726+10:00"}
 ---
 
 # Welcome
@@ -11,6 +11,12 @@ Welcome to my digital garden, started on the 30th of June 2025.
 ## Get Around! 
 
 Here are some of the topics in this digital garden that have a lot branches currently! They are typically higher concepts or concepts that have a lot of links to other things within them. 
+
+### New and interesting notes
+(Random notes from my vault that I thought might be interesting to some people!)
+- [[1. Knowledge/The YouTube AMV Editor Apocalypse 2025 🌱\|The YouTube AMV Editor Apocalypse 2025 🌱]]
+
+{ .block-language-dataview}
 
 ### Tech & The Web
 - [[1. Knowledge/Concepts/Servers/Home Server 🌳\|Home Server 🌳]]
@@ -32,10 +38,6 @@ Here are some of the topics in this digital garden that have a lot branches curr
 
 
 ### Literature
-
-
-
-
 ### Books
 The books I have studied inside my digital garden.
 | File                                                                 | Cover                                                                                                                     | Author        | Genre   | Date               |

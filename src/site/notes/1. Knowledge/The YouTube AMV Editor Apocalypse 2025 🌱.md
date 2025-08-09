@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/the-you-tube-amv-editor-apocalypse-2025/","tags":["editing/vidding","fan-editing-history","interesting"],"created":"2025-08-09T14:05:51.362+10:00","updated":"2025-08-09T14:17:47.744+10:00"}
+{"dg-publish":true,"permalink":"/1-knowledge/the-you-tube-amv-editor-apocalypse-2025/","tags":["editing/vidding","fan-editing-history","interesting"],"created":"2025-08-09T14:05:51.362+10:00","updated":"2025-08-09T14:22:54.320+10:00"}
 ---
 
-There have been many purges of fan editors on YouTube over the years, where one day, editors will wake up and find their YouTube channel has just been obliterated. 
+There have been many purges of fan editors' channels on YouTube over the years, where one day, editors will wake up and find their YouTube channel has just been obliterated. 
 
 Beginning in August 2025, a new purge began. Many AMV editors awoke to find an email in their Gmail inbox saying that YouTube had deleted their channel due to "serious or repeated violations of our policies against spam, deceptive practices, and fraud.". This is despite the fact that most editors post less than once a month, if that. 
 

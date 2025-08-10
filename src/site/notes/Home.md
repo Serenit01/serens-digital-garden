@@ -14,7 +14,6 @@ Here are some of the topics in this digital garden that have a lot branches curr
 
 ### New and interesting notes
 (Random notes from my vault that I thought might be interesting to some people!)
-- [[1. Knowledge/The YouTube AMV Editor Apocalypse 2025 🌱\|The YouTube AMV Editor Apocalypse 2025 🌱]]
 
 { .block-language-dataview}
 

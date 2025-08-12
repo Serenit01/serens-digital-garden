@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T21:57:23.150+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T21:58:23.033+10:00"}
 ---
 
 The Walking Dead is a TV show set during the zombie apocalypse and follows Rick Grimes, a cop who wakes up in a hospital after being shot shortly before the zombie uprising began and sets off to find his wife and son. 
@@ -44,7 +44,7 @@ If anything I says here offends, upsets or angers you, then please click away :)
 
 **Episode 3
 - I am really liking the B plot with Andrea and Michonne, it's a nice change from the silly group dramas in the A plot at the moment. I am interested to see where it goes, I do think they are laying it all on a little thick though with this guy who is the 'governor' of this town. 
-- I've noticed that the writers go-to thing to write to make a character 'bad' is just to immediately make them kill someone. That's okay the first few times but it is getting a little boring.
+- I've noticed that the writers go-to thing to write to make a character seem 'bad' is just to immediately make them kill someone. That's okay the first few times but it is getting a little boring.
 
 **Episode 4**
 - 

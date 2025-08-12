@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T21:58:23.033+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T22:03:07.024+10:00"}
 ---
 
 The Walking Dead is a TV show set during the zombie apocalypse and follows Rick Grimes, a cop who wakes up in a hospital after being shot shortly before the zombie uprising began and sets off to find his wife and son. 
@@ -36,7 +36,7 @@ If anything I says here offends, upsets or angers you, then please click away :)
   
 - I keep comparing the show to the The Walking Dead Game Season 1, which, in my opinion has much better writing than this. All the characters take every action FOR A REASON. Unlike in this show, where a lot of the characters sometimes make absolute nonsensical decisions like the writers are toddlers playing with dolls they don't quite care for. 
   
-- I do really love the idea of the prison setting though. It's such a cool idea, I hope they can do something interesting with it before they, (I assume) inevitably, have to leave because (probably) they do something unbelievably stupid and fuck it all up lol. 
+- I do really love the idea of the prison setting though. It's such a cool idea, I hope they can do something interesting with it before they, (I assume) inevitably, have to leave because they (probably) do something unbelievably stupid and fuck it all up lol. 
   
 - Once again loving Daryl, one of the only people left with some sense in this group.
   
@@ -44,7 +44,7 @@ If anything I says here offends, upsets or angers you, then please click away :)
 
 **Episode 3
 - I am really liking the B plot with Andrea and Michonne, it's a nice change from the silly group dramas in the A plot at the moment. I am interested to see where it goes, I do think they are laying it all on a little thick though with this guy who is the 'governor' of this town. 
-- I've noticed that the writers go-to thing to write to make a character seem 'bad' is just to immediately make them kill someone. That's okay the first few times but it is getting a little boring.
+- I've noticed that the writers go-to thing to write to make a character seem 'bad' is just to immediately make them kill someone. That's okay the first few times but it is getting a little boring now. It would be nice to have some other kind of character development in that respect. 
 
 **Episode 4**
 - 

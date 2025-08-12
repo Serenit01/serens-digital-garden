@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-08T13:25:01.077+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T14:09:32.350+10:00"}
 ---
 
 The Walking Dead is a TV show set during the zombie apocalypse and follows Nick Grimes, a cop who wakes up in a hospital after being shot shortly before the zombie uprising began and sets off to find his wife and son. 
@@ -17,6 +17,11 @@ The Walking Dead is a TV show set during the zombie apocalypse and follows Nick 
 - I like what they did with Daryl. He spent so long looking for Sophia, holding out hope and then it was taken from him and he decided to shut himself off from feeling those emotions again for a little while, before beginning to open up again after realizing that people in the group still need him, and wanting to be a good man despite himself. I think I like Daryl best after this season. I hope it stays that way T-T 
 
 ###### Season 3:
+Ep 1 and 2
+- We're really starting this season off with a giant time skip huh? I don't like it tbh, but whatever
+- I don't really like whatever this stupid character arc Rick is going through, if he was just going to turn out exactly like Shane, why did they even bother killing Shane? Now there's very little interesting conflict, just a broody guy who's treating his wife like shit and lowkey being a manipulative asshole, letting his wife try to fawn over him to even try and get him to talk to her a tiny bit. I get this is supposed to be a point where Rick's character changes, but something about it just feels so off to me in terms of writing? I need to mull over this some more because I can't quite put my finger on it right now.
+- I really don't like 'horror' media where most of the main characters are idiots, and it feels like as the show goes on and the writers try to find more increasingly stupid ways to make it more dramatic, the characters will proceed to loose all their intelligence. Why are we letting the old doctor try and clear out a bunch of zombies when we need him to help deliver a child in a few days (despite the fact they didn't need him to go out and kill zombies earlier in the episode in almost the exact same situation)? Because we want some drama!!! It would be fine if they had had an actual reason or need to send him out, but they really didn't. They even stated as much in the actual episode lmao. It's so senseless.  
+- Despite all my complaints an I am still enjoying it overall. I just think there are a ton of stupid writing decisions being made, and after being spoiled with great writing with Breaking Bad and Better Call Saul I think I am very picky now. I am hoping the writing gets better.
 
 ###### Season 4:
 

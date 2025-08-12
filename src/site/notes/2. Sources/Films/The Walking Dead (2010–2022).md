@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T16:57:32.180+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T21:14:22.721+10:00"}
 ---
 
 The Walking Dead is a TV show set during the zombie apocalypse and follows Rick Grimes, a cop who wakes up in a hospital after being shot shortly before the zombie uprising began and sets off to find his wife and son. 
@@ -41,6 +41,13 @@ If anything I says here offends, upsets or angers you, then please click away :)
 - Once again loving Daryl, one of the only people left with some sense in this group.
   
 - I also kind of like that Carol is stepping up and seeming to take a more active role in the group, and I also really am liking that Glenn's girlfriend (forget her name right now) has gotten a bit more of a backbone and is getting in there and fighting the zombies with the men now. I assume she's taking a bit of Andrea's role now.  
+
+**Episode 3
+- I am really liking the B plot with Andrea and Michonne, it's a nice change from the silly group dramas in the A plot at the moment. I am interested to see where it goes, I do think they are laying it all on a little thick though with this guy who is the 'governor' of this town. 
+- The writers only go-to thing to make someone 'bad' seems to be if they kill people, they don't have anything else to write except 'kills people = bad guy'. I am waiting for something fresh... 
+
+**Episode 4**
+- 
 
 ###### Season 4:
 

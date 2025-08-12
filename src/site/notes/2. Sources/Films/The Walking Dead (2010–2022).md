@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T14:09:32.350+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T15:43:18.790+10:00"}
 ---
 
 The Walking Dead is a TV show set during the zombie apocalypse and follows Nick Grimes, a cop who wakes up in a hospital after being shot shortly before the zombie uprising began and sets off to find his wife and son. 
 
 ### First watch-through
+Here are my notes from my first ever watch of this show. I will then look back at these notes after I have finished it to better organise my thoughts and opinions on it, then begin making an analysis of the characters, themes and writing (and maybe other filmmaking techniques) afterwards. I may even to a 2nd re-watch if I feel it is worth my time to do so. 
 ##### Live Thoughts:
 ###### Season 2:
 

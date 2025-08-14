@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-12T18:48:46.705+10:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-14T12:49:40.333+10:00"}
 ---
 
 # Welcome
@@ -120,8 +120,7 @@ Also, this page is run using the [Digital Garden plugin ](https://dg-docs.ole.de
 #### Why post this publicly?
 I dunno, fun? I like putting the things I am doing up on the internet for other people to see! There are tons of things across the internet that others post mainly for themselves that I also enjoy looking at, and I wanted to do the same, because maybe there is someone out there who is also interested in some of the topics I am looking into here! 
 
-I also want to inspire others to make their own digital gardens or research projects, because I believe there is a decline in people who want to learn things and with the rise of censorship and the use of AI where people just let the AI tell them what to think, I feel learning how to research and think for yourself is more important now than ever. It has also now become the norm to let random tiktokers or reels influences determine what you think is true and what you believe. 
-I hate that because it is not reliable at all and leads you to have unnuanced and uninformed opinions on things you personally have not looked into or researched. I personally don't believe someone should speak on a topic as if they know a lot about it if they have not done actual research themselves. Just because someone on TikTok says something is true, doesn't mean it is. This entire site is a fight against that. I used to hate this shit in school, and now I feel it is the only way to keep myself sane in this world on misinformation and information overload.
+I also want to inspire others to make their own digital gardens or research projects, because I believe there is a decline in people who want to learn things and with the rise of censorship and the use of AI where people just let the AI tell them what to think, I feel learning how to research and think for yourself is more important now than ever. 
 If you also think like me, maybe try out Obsidian! Take notes on things you are interested in, do a book study or a film study! Read some scientific papers that have opposite arguments and try and figure out which might be more reliable than the others and why, learn how to spot misinformation. This is a journey that I am currently taking and as I learn I will get better, just as you will if you begin! And once you begin, you will begin to start thinking more critically about the information that is being pushed onto you.
 
 I also think this can be a really awesome ideation device! Once you have a bunch of notes, you begin to notice that completely different topics eventually gain a link to one another, for example you have two notes in different topics and realize, "Hang on, I think these two ideas have some kind of correlation" So you make a new note, and BAM! You've got an idea for a piece of art, or an essay, or a zine or anything else you love making. 

@@ -5,7 +5,7 @@
 test page
 > [!INFO]+ 1984 - George Orwell
 > Test
-![1984-cover.jpg](/img/user/Ignore/1984-cover.jpg) 
+![1984-cover.jpg](/img/user/Ignore/images/1984-cover.jpg) 
 > sdfdsaf
 
 

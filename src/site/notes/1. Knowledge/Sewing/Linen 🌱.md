@@ -3,7 +3,7 @@
 ---
 
 
-![laura-guldner-z5gJemzuZ0k-unsplash (1).jpg](/img/user/Ignore/laura-guldner-z5gJemzuZ0k-unsplash%20(1).jpg)
+![laura-guldner-z5gJemzuZ0k-unsplash (1).jpg](/img/user/Ignore/images/laura-guldner-z5gJemzuZ0k-unsplash%20(1).jpg)
 
 Material type: Natural
 Made of: Flax

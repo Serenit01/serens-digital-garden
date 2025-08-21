@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/1-source-notes/research-paper-notes/tulpas-and-mental-health-a-study-of-non-traumagenic-plural-experiences-by-jacob-j-isler-notes/","tags":["#notes"],"created":"2025-07-11T17:23:16.425+10:00","updated":"2025-07-18T07:42:07.357+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/1-source-notes/research-paper-notes/tulpas-and-mental-health-a-study-of-non-traumagenic-plural-experiences-by-jacob-j-isler-notes/","tags":["#notes"],"created":"2025-07-11T17:23:16.425+10:00","updated":"2025-08-21T13:56:03.738+10:00"}
 ---
 
 The purpose of this research paper is to 'clarify' the existence of associations between the high frequency of disorders among tulpamancers and the reports of improvements in relation to those disorders from practicing tulpamancy. 
@@ -30,7 +30,7 @@ The purpose of this research paper is to 'clarify' the existence of associations
 
 - 31% of respondents described their relationship with their tulpa as romantic. 78% described it as a friendship.
 
-- One respondant who was diagnosed with Schizophrenia stated that his tulpa can knows the difference between hallucinations and reality and the tulpa helps him with that by developing a way together where they can 'zap' away the delusions. 
+- One respondent who was diagnosed with Schizophrenia stated that his tulpa can knows the difference between hallucinations and reality and the tulpa helps him with that by developing a way together where they can 'zap' away the delusions. 
 - "Others discuss how their tulpas prevented their suicide, be it through words or acting to remove the host’s control of the body."
 
 

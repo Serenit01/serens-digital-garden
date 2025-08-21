@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/tulpas-and-tulpamancy/tulpa/","tags":["psychology"],"created":"2025-07-11T16:10:59.525+10:00","updated":"2025-07-14T17:37:32.322+10:00"}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/tulpas-and-tulpamancy/tulpa/","tags":["psychology"],"created":"2025-07-11T16:10:59.525+10:00","updated":"2025-08-21T13:19:10.577+10:00"}
 ---
 
 A Tulpa is a being that is created within one's head. It could be considered an '[[imaginary friend\|imaginary friend]]'. But is much more than that. 
 
-It is sentient and has it's own opinions, thoughts and personality separate from the 'host' and can communicate with it's host. If it becomes developed enough, it can even share control of the body with the host, known as [[Possession or Switching\|Possession or Switching]].
+It is sentient and has it's own opinions, thoughts and personality separate from the 'host' and can communicate with it's host. If it becomes developed enough, it can even share control of the body with the host, known as [[1. Knowledge/Concepts/Tulpas and Tulpamancy/Possession or Switching 🌱\|Possession or Switching 🌱]].
 Hosts say they feel as real as any person. 
 
 

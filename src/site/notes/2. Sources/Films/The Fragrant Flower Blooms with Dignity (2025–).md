@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-fragrant-flower-blooms-with-dignity-2025/","title":"The Fragrant Flower Blooms with Dignity","tags":["mediaDB/tv/series","#tvshow"],"created":"2025-08-20T12:25:04.914+10:00","updated":"2025-08-20T12:48:50.763+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-fragrant-flower-blooms-with-dignity-2025/","title":"The Fragrant Flower Blooms with Dignity","tags":["mediaDB/tv/series","#tvshow"],"created":"2025-08-20T12:25:04.914+10:00","updated":"2025-08-20T19:40:11.677+10:00"}
 ---
 
 The Fragrant Flower Blooms with Dignity is a cute little romance anime about two students from different schools. The problem is that both of these schools hate each others guts.
 
 -----
 **Currently up to ep 6**
+
+This anime has me grinning from ear to ear every single episode, it's so cute
 
 First thoughts and opinions:
 I am still watching it while it is airing, and currently the reason why each of the schools hate each other so much has still not been revealed, and I am beginning to wonder if it ever will be revealed. I feel there needs to be some kind of deeper reason than they hate each other than 'just because'. Or that one school is full of rich people and the other seemingly is full of people who are struggling with the schooling system. There isn't much yet to go off other than the students treating each other badly, and, yes this could just be a school culture thing, where the reasons why have been long forgotten, but some more info or backstory on that would be nice! Because at the moment it feels very surface level.

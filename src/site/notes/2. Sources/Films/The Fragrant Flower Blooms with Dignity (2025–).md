@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-fragrant-flower-blooms-with-dignity-2025/","title":"The Fragrant Flower Blooms with Dignity","tags":["mediaDB/tv/series","#tvshow"],"created":"2025-08-20T12:25:04.914+10:00","updated":"2025-08-20T19:40:11.677+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-fragrant-flower-blooms-with-dignity-2025/","title":"The Fragrant Flower Blooms with Dignity","tags":["mediaDB/tv/series","#tvshow"],"created":"2025-08-20T12:25:04.914+10:00","updated":"2025-08-24T17:29:05.858+10:00"}
 ---
 
 The Fragrant Flower Blooms with Dignity is a cute little romance anime about two students from different schools. The problem is that both of these schools hate each others guts.

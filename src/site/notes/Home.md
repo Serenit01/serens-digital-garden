@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-21T10:07:08.093+10:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-25T14:26:14.329+10:00"}
 ---
 
 # Welcome
@@ -7,32 +7,36 @@ Welcome to my digital garden, started on the 30th of June 2025.
  Contact: serenitysrest01@proton.me
  Feel free to contact me about anything in my digital garden if you wish!
 
+Everything in this digital garden is constantly being tended to and therefore in an imperfect state. Nothing in here is 100% complete, as knowledge is always changing.
+
 <br>
 ## Get Around! 
 
 Here are some of the topics in this digital garden that have a lot branches currently! They are typically higher concepts or concepts that have a lot of links to other things within them. 
 
 ### New and interesting notes
-(Random notes from my vault that I thought might be interesting to some people!)
--- Table will be added here soon
+Random notes from my vault that I thought might be interesting to some people!
+- [[1. Knowledge/Ikigai 🌱\|Ikigai 🌱]]
 
 { .block-language-dataview}
 
 ### History
-- [[1. Knowledge/Concepts/Ancient Greece/Ancient Greece🌳\|Ancient Greece🌳]]
-- [[1. Knowledge/Concepts/Ancient Greece/Ancient Greek Mythology 🌱\|Ancient Greek Mythology 🌱]]
+- [[1. Knowledge/Concepts/History/Ghost Ships/Ghost Ships 🌱\|Ghost Ships 🌱]]
+- [[1. Knowledge/Concepts/History/Ancient Greece/Ancient Greek Mythology 🌱\|Ancient Greek Mythology 🌱]]
+- [[1. Knowledge/Concepts/History/Ancient Greece/Ancient Greece🌳\|Ancient Greece🌳]]
 
 { .block-language-dataview}
 
 ### Tech & The Web
 - [[1. Knowledge/Concepts/Servers/Home Server 🌳\|Home Server 🌳]]
-- [[1. Knowledge/Concepts/The Web/Personal Digital Sovereignty 🌱\|Personal Digital Sovereignty 🌱]]
 - [[1. Knowledge/Concepts/Servers/What is a Server 🌱\|What is a Server 🌱]]
 - [[1. Knowledge/Concepts/What is a VPN and The Downsides🌱\|What is a VPN and The Downsides🌱]]
+- [[1. Knowledge/Concepts/The Web/Personal Digital Sovereignty 🌱\|Personal Digital Sovereignty 🌱]]
 
 { .block-language-dataview}
 
 ### Psychology
+- [[1. Knowledge/Ikigai 🌱\|Ikigai 🌱]]
 - [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]]
 - [[1. Knowledge/Concepts/Psychology/Core Beliefs 🌱\|Core Beliefs 🌱]]
 
@@ -41,11 +45,11 @@ Here are some of the topics in this digital garden that have a lot branches curr
 ### Gardening
 
 { .block-language-dataview}
-
+(Will add things here soon!)
 
 ### Literature
 ### Books
-The books I have studied inside my digital garden.
+The latest books I have studied inside my digital garden.
 | File                                                                 | Cover                                                                                                                     | Author        | Genre   | Date               |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | ------- | ------------------ |
 | [[2. Sources/Books/1984 by George Orwell\|1984 by George Orwell]] | ![\|110](http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | George Orwell | Fiction | September 03, 2013 |
@@ -60,9 +64,9 @@ I'm getting sick of consuming media and then forgetting them soon after. By writ
 | File                                                                                                                     | image                                                                                                                        | year      | genres                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------- |
 | [[2. Sources/Films/The Lord Of The Rings\|The Lord Of The Rings]]                                                     | ![\|110](https://media.themoviedb.org/t/p/w220_and_h330_face/e8QEogibgnnQSrVfIhiBvOubAC9.jpg)                                | \-        | \-                                                                   |
-| [[2. Sources/Films/The Walking Dead (2010–2022)\|The Walking Dead (2010–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg) | 2010–2022 | <ul><li>Drama</li><li>Horror</li><li>Thriller</li></ul>              |
 | [[2. Sources/Films/The Fragrant Flower Blooms with Dignity (2025–)\|The Fragrant Flower Blooms with Dignity (2025–)]] | ![\|110](https://m.media-amazon.com/images/M/MV5BOWFlYTIxMmQtM2Y0Mi00NThhLWEwOWEtYjA0OTBlMjRkYTViXkEyXkFqcGc@._V1_SX300.jpg) | 2025      | <ul><li>Comedy</li><li>Drama</li><li>Anime</li><li>Romance</li></ul> |
 | [[2. Sources/Films/Better Call Saul (2015–2022)\|Better Call Saul (2015–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg) | 2015–2022 | <ul><li>Crime</li><li>Drama</li></ul>                                |
+| [[2. Sources/Films/The Walking Dead (2010–2022)\|The Walking Dead (2010–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg) | 2010–2022 | <ul><li>Drama</li><li>Horror</li><li>Thriller</li></ul>              |
 
 { .block-language-dataview}
 

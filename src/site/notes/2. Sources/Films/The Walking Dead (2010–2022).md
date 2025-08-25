@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-12T22:03:07.024+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-25T12:53:19.416+10:00"}
 ---
 
 The Walking Dead is a TV show set during the zombie apocalypse and follows Rick Grimes, a cop who wakes up in a hospital after being shot shortly before the zombie uprising began and sets off to find his wife and son. 

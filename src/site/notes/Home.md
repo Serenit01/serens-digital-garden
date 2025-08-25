@@ -21,6 +21,7 @@ Random notes from my vault that I thought might be interesting to some people!
 { .block-language-dataview}
 
 ### History
+- [[The Roman Empire 🌱\|The Roman Empire 🌱]]
 - [[1. Knowledge/Concepts/History/Ghost Ships/Ghost Ships 🌱\|Ghost Ships 🌱]]
 - [[1. Knowledge/Concepts/History/Ancient Greece/Ancient Greek Mythology 🌱\|Ancient Greek Mythology 🌱]]
 - [[1. Knowledge/Concepts/History/Ancient Greece/Ancient Greece🌳\|Ancient Greece🌳]]

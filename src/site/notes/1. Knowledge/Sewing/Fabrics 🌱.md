@@ -17,10 +17,10 @@ These materials are made of organic matter that can biodegrade over time much fa
 ## Synthetic (Plastic or Oil based):
 These materials are man-made and are bad for the environment, but are much cheaper than natural materials. They are all [[Non-biodegradable\|Non-biodegradable]].
 
-[[Polyester 🌱\|Polyester 🌱]]
-[[Nylon 🌱\|Nylon 🌱]]
-[[Acrylic 🌱\|Acrylic 🌱]]
-[[Spandex (aka Lycra, Elastane) 🌱\|Spandex (aka Lycra, Elastane) 🌱]]
+[[1. Knowledge/Sewing/Polyester 🌱\|Polyester 🌱]]
+[[1. Knowledge/Sewing/Nylon 🌱\|Nylon 🌱]]
+[[1. Knowledge/Sewing/Acrylic 🌱\|Acrylic 🌱]]
+[[1. Knowledge/Sewing/Spandex (aka Lycra, Elastane) 🌱\|Spandex (aka Lycra, Elastane) 🌱]]
 [[Faux Leather 🌱\|Faux Leather 🌱]]
 
 

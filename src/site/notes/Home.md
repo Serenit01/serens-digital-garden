@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-25T14:26:14.329+10:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-08-25T16:28:35.719+10:00"}
 ---
 
 # Welcome
@@ -57,16 +57,16 @@ The latest books I have studied inside my digital garden.
 { .block-language-dataview}
 
 ### Films and TV
-Films and TV shows that I have thought about or have begun studying/analysing recently. 
+Films and TV shows that I have thoughts about or have begun studying/analysing recently. 
 I'm getting sick of consuming media and then forgetting them soon after. By writing about them I hope to make each piece of media I consume both a fun and meaningful experience.
 
 ![[Film and TV Bases.base#Table]]
 | File                                                                                                                     | image                                                                                                                        | year      | genres                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------- |
 | [[2. Sources/Films/The Lord Of The Rings\|The Lord Of The Rings]]                                                     | ![\|110](https://media.themoviedb.org/t/p/w220_and_h330_face/e8QEogibgnnQSrVfIhiBvOubAC9.jpg)                                | \-        | \-                                                                   |
-| [[2. Sources/Films/The Fragrant Flower Blooms with Dignity (2025–)\|The Fragrant Flower Blooms with Dignity (2025–)]] | ![\|110](https://m.media-amazon.com/images/M/MV5BOWFlYTIxMmQtM2Y0Mi00NThhLWEwOWEtYjA0OTBlMjRkYTViXkEyXkFqcGc@._V1_SX300.jpg) | 2025      | <ul><li>Comedy</li><li>Drama</li><li>Anime</li><li>Romance</li></ul> |
 | [[2. Sources/Films/Better Call Saul (2015–2022)\|Better Call Saul (2015–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg) | 2015–2022 | <ul><li>Crime</li><li>Drama</li></ul>                                |
 | [[2. Sources/Films/The Walking Dead (2010–2022)\|The Walking Dead (2010–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg) | 2010–2022 | <ul><li>Drama</li><li>Horror</li><li>Thriller</li></ul>              |
+| [[2. Sources/Films/The Fragrant Flower Blooms with Dignity (2025–)\|The Fragrant Flower Blooms with Dignity (2025–)]] | ![\|110](https://m.media-amazon.com/images/M/MV5BOWFlYTIxMmQtM2Y0Mi00NThhLWEwOWEtYjA0OTBlMjRkYTViXkEyXkFqcGc@._V1_SX300.jpg) | 2025      | <ul><li>Comedy</li><li>Drama</li><li>Anime</li><li>Romance</li></ul> |
 
 { .block-language-dataview}
 

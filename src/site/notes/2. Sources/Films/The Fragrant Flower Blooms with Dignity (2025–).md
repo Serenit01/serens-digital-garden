@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-fragrant-flower-blooms-with-dignity-2025/","title":"The Fragrant Flower Blooms with Dignity","tags":["mediaDB/tv/series","#tvshow"],"created":"2025-08-20T12:25:04.914+10:00","updated":"2025-08-24T17:29:05.858+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-fragrant-flower-blooms-with-dignity-2025/","title":"The Fragrant Flower Blooms with Dignity","tags":["mediaDB/tv/series","#tvshow"],"created":"2025-08-20T12:25:04.914+10:00","updated":"2025-08-25T16:27:23.969+10:00"}
 ---
 
 The Fragrant Flower Blooms with Dignity is a cute little romance anime about two students from different schools. The problem is that both of these schools hate each others guts.
 
 -----
-**Currently up to ep 6**
+**Currently up to ep 8**
 
 This anime has me grinning from ear to ear every single episode, it's so cute
 
@@ -16,7 +16,7 @@ I am still watching it while it is airing, and currently the reason why each of 
 Things I am enjoying so far:
 - The main characters mother is so good, I really like that she's kicking him to fix things and instantly notices when he's feeling down! 
   
-- I like anime like this where they don't draw out all the drama for 10+ episodes before they finally address it! (looking at you *Kimi Ni Todoke*, even as I kid I found you painful to sit through)
+- I like anime like this where they don't draw out all the drama for a million episodes before they finally address it! (looking at you *Kimi Ni Todoke*, even as I kid I found you painful to sit through)
   
 - The main character is smart and pretty emotionally intelligent. He sees a problem, and after working through his emotions, he fixes the problem. He doesn't fall into self pity or ignore the problems, he just does what he can. I really like that, I think he's a really well written character too! 
 - **I like that a character who has been hating himself his entire life is slowly beginning to realize that maybe he's not such a monster after all, and just because others treat him so badly, doesn't mean he isn't worthy of love.** It's a really lovely kind of character growth. Watching his negative [[1. Knowledge/Concepts/Psychology/Core Beliefs 🌱\|Core Beliefs 🌱]]change so much is so lovely, it's nice to watch him begin to treat himself more nicely!

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/sewing/fabrics/","tags":["#sustainable-living"],"created":"2025-07-20T10:43:19.607+10:00","updated":"2025-08-07T14:45:31.291+10:00"}
+{"dg-publish":true,"permalink":"/1-knowledge/sewing/fabrics/","tags":["#sustainable-living"],"created":"2025-07-20T10:43:19.607+10:00","updated":"2025-08-25T16:52:34.846+10:00"}
 ---
 
 In [[Sewing\|Sewing]] there are so many different kinds of fabrics to sew from.
@@ -15,15 +15,17 @@ These materials are made of organic matter that can biodegrade over time much fa
 [[Hemp Cloth 🌱\|Hemp Cloth 🌱]]
 
 ## Synthetic (Plastic or Oil based):
-These materials are man-made and are bad for the environment, but are much cheaper than natural materials. 
+These materials are man-made and are bad for the environment, but are much cheaper than natural materials. They are all [[Non-biodegradable\|Non-biodegradable]].
 
 [[Polyester 🌱\|Polyester 🌱]]
 [[Nylon 🌱\|Nylon 🌱]]
 [[Acrylic 🌱\|Acrylic 🌱]]
 [[Spandex (aka Lycra, Elastane) 🌱\|Spandex (aka Lycra, Elastane) 🌱]]
+[[Faux Leather 🌱\|Faux Leather 🌱]]
+
 
 > [!Important]
-> - Synthetic materials should not be used for things that will get very hot (pot holders, oven mitts, ironing board covers etc) as they can melt and could melt into your skin. You should also be careful ironing some synthetic materials.
+> - Synthetic materials should not be used for things that will get very hot (pot holders, oven mitts, ironing board covers etc) as they can melt and could melt into your skin. You should also be careful ironing some synthetic materials that are not blended with non-synthetic materials.
 
 
 

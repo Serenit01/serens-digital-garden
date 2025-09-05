@@ -17,6 +17,7 @@ Here are some of the topics in this digital garden that have a lot branches curr
 ### New and interesting notes
 Random notes from my vault that I thought might be interesting to some people!
 - [[1. Knowledge/Ikigai 🌱\|Ikigai 🌱]]
+- [[1. Knowledge/The small acts you put out into the world can change the world 🌱\|The small acts you put out into the world can change the world 🌱]]
 
 { .block-language-dataview}
 
@@ -51,9 +52,10 @@ Random notes from my vault that I thought might be interesting to some people!
 ### Literature
 ### Books
 The latest books I have studied inside my digital garden.
-| File                                                                 | Cover                                                                                                                     | Author        | Genre   | Date               |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | ------- | ------------------ |
-| [[2. Sources/Books/1984 by George Orwell\|1984 by George Orwell]] | ![\|110](http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | George Orwell | Fiction | September 03, 2013 |
+| File                                                                                                                                                                                                         | Cover                                                                                                                     | Author                                         | Genre       | Date               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------- | ------------------ |
+| [[2. Sources/Books/1984 by George Orwell\|1984 by George Orwell]]                                                                                                                                         | ![\|110](http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | George Orwell                                  | Fiction     | September 03, 2013 |
+| [[2. Sources/Books/Amusing Ourselves to Death - Public Discourse in the Age of Show Business by Neil Postman\|Amusing Ourselves to Death - Public Discourse in the Age of Show Business by Neil Postman]] | ![\|110](https://cdn.thestorygraph.com/khhjms7tpe7arqgwjwddn19tooxb)                                                      | Neil Postman with Andrew Postman (Contributor) | Non-fiction | \-                 |
 
 { .block-language-dataview}
 
@@ -65,8 +67,8 @@ I'm getting sick of consuming media and then forgetting them soon after. By writ
 | File                                                                                                                     | image                                                                                                                        | year      | genres                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------- |
 | [[2. Sources/Films/The Lord Of The Rings\|The Lord Of The Rings]]                                                     | ![\|110](https://media.themoviedb.org/t/p/w220_and_h330_face/e8QEogibgnnQSrVfIhiBvOubAC9.jpg)                                | \-        | \-                                                                   |
-| [[2. Sources/Films/Better Call Saul (2015–2022)\|Better Call Saul (2015–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg) | 2015–2022 | <ul><li>Crime</li><li>Drama</li></ul>                                |
 | [[2. Sources/Films/The Walking Dead (2010–2022)\|The Walking Dead (2010–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg) | 2010–2022 | <ul><li>Drama</li><li>Horror</li><li>Thriller</li></ul>              |
+| [[2. Sources/Films/Better Call Saul (2015–2022)\|Better Call Saul (2015–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg) | 2015–2022 | <ul><li>Crime</li><li>Drama</li></ul>                                |
 | [[2. Sources/Films/The Fragrant Flower Blooms with Dignity (2025–)\|The Fragrant Flower Blooms with Dignity (2025–)]] | ![\|110](https://m.media-amazon.com/images/M/MV5BOWFlYTIxMmQtM2Y0Mi00NThhLWEwOWEtYjA0OTBlMjRkYTViXkEyXkFqcGc@._V1_SX300.jpg) | 2025      | <ul><li>Comedy</li><li>Drama</li><li>Anime</li><li>Romance</li></ul> |
 
 { .block-language-dataview}

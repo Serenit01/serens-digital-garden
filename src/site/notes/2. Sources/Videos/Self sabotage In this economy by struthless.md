@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/videos/self-sabotage-in-this-economy-by-struthless/","tags":["source","video"],"created":"2025-09-05T12:05:33.103+10:00","updated":"2025-09-05T15:01:31.584+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/videos/self-sabotage-in-this-economy-by-struthless/","tags":["source","video"],"created":"2025-09-05T12:05:33.103+10:00","updated":"2025-09-05T17:01:18.481+10:00"}
 ---
 
 # Self sabotage? In this economy?
@@ -29,7 +29,7 @@ Ask yourself instead: What would ___you___ think?
 - Ask yourself; 'Are they in the Arena?' (are the putting in the same work you are, and do they understand what they are talking about), 'Are they in an arena that I care about?', and 'Would I take advice from them?'.
 
 2) Comment Bingo
-About how to treat 'haters' or unwanted feedback.
+Play bingo with negative comments
 
 Types of people you might get unhelpful feedback from:
 - **People with no curiosity:** E.g 'Humans are NOT a rich tapestry' and 'My gut reaction is 100% correct' These people who make up their mind who lack nuance or attempt to understand other people's point of views. People who think they are the main character and anything out of their experience is wrong. 
@@ -38,10 +38,10 @@ Types of people you might get unhelpful feedback from:
   
 - **People with no agency:** E.g 'I am impossibly dump and impossibly angry'. People who make up stupid arguments, for example if you criticize a part of society, then they turn around and tell you that you are still participating in it without understand the nuance of your argument. 
 
-I personally find flaws with these categories as I see a lot of overlap between them, but the general idea I understand.
+I personally find flaws with this particular suggestion, but maybe some people will find it helpful!
 
 > [!QUOTE]
-> "When you watch a fly spend like a decent chunk of it's life just on your ceiling, and you're like 'man,you don't have that much time, what are you doing??'. Is that what God thinks of us when he sees us on our phone?" #quote 
+> "(...) you watch a fly spend a decent chunk of it's life just on your ceiling, and you're like 'man, you don't have that much time, what are you doing??'. Is that what God thinks of us when he sees us on our phone?" #quote 
 
 **The point of those categories is to realize that these people have no original thoughts and no personality, and therefore have pretty worthless opinions that you should not take to heart, nor waste your time engaging with.**
 
@@ -100,6 +100,8 @@ And, a quote that I really like from the Farseer Trilogy that is perfect for thi
 > 
 > “No, Fitz, this is life. And no one has time not to think of such things. Each creature in the world should consider this thing, every moment of the heart's beating. Otherwise, what is the point of arising each day?” - Royal Assassin, by Robin Hobb
 
+
+
 > [!QUOTE]
 > "And yet there is a disconnect when you think about what you put out into the world. You think 'Well, if it isn't universally completely accepted by everybody, how would it have an impact with anybody?' It's crazy how we can do that to ourselves." - Struthless #quote 
 
@@ -114,7 +116,7 @@ He suggests getting a notebook and at the end of each day or project, ask 'what 
 
 
 9) There are stakes either way. 
-It can be easy to compare fear to comfort when it comes to doing something. It's more helpful to look at it as 'Either way, there are stakes to this'. Becuase if you don't do the thing, there are also stakes. 
+It can be easy to compare fear to comfort when it comes to doing something. It's more helpful to look at it as 'Either way, there are stakes to this'. Because if you don't do the thing, there are also stakes. 
 
 You compare the stakes of backing yourself or not backing yourself and staying comfortable, and take the worst case scenario of both and then pick. 
 

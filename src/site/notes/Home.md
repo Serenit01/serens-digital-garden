@@ -38,9 +38,9 @@ Random notes from my vault that I thought might be interesting to some people!
 { .block-language-dataview}
 
 ### Psychology
+- [[1. Knowledge/Concepts/Psychology/Core Beliefs 🌱\|Core Beliefs 🌱]]
 - [[1. Knowledge/Ikigai 🌱\|Ikigai 🌱]]
 - [[1. Knowledge/Concepts/Psychology/Locus of control/Locus of Control 🌱\|Locus of Control 🌱]]
-- [[1. Knowledge/Concepts/Psychology/Core Beliefs 🌱\|Core Beliefs 🌱]]
 
 { .block-language-dataview}
 
@@ -68,8 +68,8 @@ I'm getting sick of consuming media and then forgetting them soon after. By writ
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------- |
 | [[2. Sources/Films/The Lord Of The Rings\|The Lord Of The Rings]]                                                     | ![\|110](https://media.themoviedb.org/t/p/w220_and_h330_face/e8QEogibgnnQSrVfIhiBvOubAC9.jpg)                                | \-        | \-                                                                   |
 | [[2. Sources/Films/The Walking Dead (2010–2022)\|The Walking Dead (2010–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_SX300.jpg) | 2010–2022 | <ul><li>Drama</li><li>Horror</li><li>Thriller</li></ul>              |
-| [[2. Sources/Films/Better Call Saul (2015–2022)\|Better Call Saul (2015–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg) | 2015–2022 | <ul><li>Crime</li><li>Drama</li></ul>                                |
 | [[2. Sources/Films/The Fragrant Flower Blooms with Dignity (2025–)\|The Fragrant Flower Blooms with Dignity (2025–)]] | ![\|110](https://m.media-amazon.com/images/M/MV5BOWFlYTIxMmQtM2Y0Mi00NThhLWEwOWEtYjA0OTBlMjRkYTViXkEyXkFqcGc@._V1_SX300.jpg) | 2025      | <ul><li>Comedy</li><li>Drama</li><li>Anime</li><li>Romance</li></ul> |
+| [[2. Sources/Films/Better Call Saul (2015–2022)\|Better Call Saul (2015–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg) | 2015–2022 | <ul><li>Crime</li><li>Drama</li></ul>                                |
 
 { .block-language-dataview}
 

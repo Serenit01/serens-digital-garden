@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/the-small-acts-you-put-out-into-the-world-can-change-the-world/","tags":["backing-yourself","interesting"],"created":"2025-09-05T14:28:58.400+10:00","updated":"2025-09-05T14:55:26.187+10:00"}
+{"dg-publish":true,"permalink":"/1-knowledge/the-small-acts-you-put-out-into-the-world-can-change-the-world/","tags":["backing-yourself"],"created":"2025-09-05T14:28:58.400+10:00","updated":"2025-10-10T17:18:49.864+11:00"}
 ---
 
 Every little thing you say or do has the possibility to change the world around you in some small way. Giving up is not an option. There are so many humans on this planet, and if each day, each one did a single small thing to make the world a better place, the world would not seem as dark as it is. **The future is not inevitable, you, together with everyone else, have power and you have [[self-efficacy\|self-efficacy]].**

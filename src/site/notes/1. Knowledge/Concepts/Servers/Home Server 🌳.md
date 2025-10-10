@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/home-server/","tags":["tech","Personal-Digital-Sovereignty","main-concept","servers","computer-hardware"],"created":"2025-07-25T12:34:22.754+10:00","updated":"2025-08-25T14:22:03.769+10:00"}
+{"dg-publish":true,"permalink":"/1-knowledge/concepts/servers/home-server/","tags":["tech","Personal-Digital-Sovereignty","main-concept","servers","computer-hardware","control-your-data"],"created":"2025-07-25T12:34:22.754+10:00","updated":"2025-10-10T18:01:20.734+11:00"}
 ---
 
 You can have multiple different kinds of things on a home server! Some examples:

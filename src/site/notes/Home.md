@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-10-10T18:48:00.033+11:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-10-10T20:29:08.321+11:00"}
 ---
 
 # Welcome
@@ -61,7 +61,7 @@ The latest books I have studied inside my digital garden.
 
 ### Films and TV
 Films and TV shows that I have thoughts about or have begun studying/analysing recently. 
-I'm getting sick of consuming media and then forgetting them soon after. By writing about them I hope to make each piece of media I consume both a fun and meaningful experience.
+I'm getting sick of consuming media and then forgetting them soon after. By writing about them I hope to make each piece of media I consume both a fun and meaningful experience. 
 
 ![[Film and TV Bases.base#Table]]
 | File                                                                                                                     | image                                                                                                                        | year      | genres                                                               |

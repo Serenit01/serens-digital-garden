@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-10-10T18:24:15.788+11:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-06-30T19:16:18.916+10:00","updated":"2025-10-10T18:25:49.247+11:00"}
 ---
 
 # Welcome
@@ -10,10 +10,10 @@
 **Everything in this digital garden is constantly being tended to and therefore in an imperfect state. Nothing in here is 100% complete, as knowledge is always changing.**
 
 <br>
-## Get Around! 
+### Get Around! 
 Here are some of the topics in this digital garden that have a lot branches currently! They are typically higher concepts or concepts that have a lot of links to other things within them. 
 
-### New and interesting notes
+#### New and interesting notes
 Random notes from my vault that I thought might be interesting to some people!
 - [[1. Knowledge/Concepts/Ikigai 🌱\|Ikigai 🌱]]
 

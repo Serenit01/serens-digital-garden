@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-08-25T12:53:19.416+10:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-10-10T19:20:41.374+11:00"}
 ---
 
-The Walking Dead is a TV show set during the zombie apocalypse and follows Rick Grimes, a cop who wakes up in a hospital after being shot shortly before the zombie uprising began and sets off to find his wife and son. 
+The Walking Dead is a TV show set during the zombie apocalypse and follows Rick Grimes, a cop who wakes up in a hospital after being shot earlier before the zombie uprising began and sets off to find his wife and son in this new version of the world. 
+
+Themes: #zombies #survival #humanity #community #HopeVsDespair #power 
+
+
+<hr>
 
 ### First watch-through
 Here are my notes from my first ever watch of this show. I will then look back at these notes after I have finished it to better organise my thoughts and opinions on it, then begin making an analysis of the characters, themes and writing (and maybe other filmmaking techniques) afterwards. I may even to a 2nd re-watch if I feel it is worth my time to do so. 
@@ -50,6 +55,14 @@ If anything I says here offends, upsets or angers you, then please click away :)
 - 
 
 ###### Season 4:
+I slacked off a bit for season 3, but here we are, season 4. 
+I don't quite know if I am enjoying this anyone tbh. I like Daryl and Carol and that's about it now. The ending of the last season felt disappointing, but I cannot put my finger on why. 
+I just really don't like some the decisions the writers made, some of the decisions just feel cheap or not well thought out enough for me. 
+
+Episode 1:
+- I like this whole new vibe with Rick taking a bit of a step back from being leader and just trying to fix his shit. I also like that he's trying to force his son to do the same.
+- I really liked the bit where Carl finally decided to give being a kid a try again and go to story time, only for story time to actually be a farce that Carol made up to train the kids in basic survival and for Carl to be disappointed. I think that was some nice writing and very quickly and easily showed us where his head is at. 
+- I didn't like the whole lady in the woods thing. I think it was a stupid way to get Rick to face his problems, I feel like something like that should be an entire season journey, not just one random lady in the woods. It was a little too on the nose for my liking, hoping it gets better from here though. 
 
 ###### Season 5:
 

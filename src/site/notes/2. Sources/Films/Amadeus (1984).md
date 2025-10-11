@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-10T20:27:22.462+11:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-10T20:31:03.645+11:00"}
 ---
 
 Amadeus is a film about an Italian musician/composer Antonio Salieri and his downfall as jealousy and resentment of Mozart begins to consume him. 
@@ -17,3 +17,11 @@ I need to watch it a 2nd time to really analyse it and think through my thoughts
 
 <hr>
 
+
+
+
+#### Backlinks:
+Sources:
+
+
+Notes:

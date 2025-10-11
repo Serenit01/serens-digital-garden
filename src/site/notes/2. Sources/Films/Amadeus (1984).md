@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-11T12:55:51.744+11:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-11T12:57:31.592+11:00"}
 ---
 
 Amadeus is a film about an Italian musician/composer Antonio Salieri and his downfall as jealousy and resentment of Mozart begins to consume him. 
@@ -8,7 +8,7 @@ Themes: #jealousy #downfall #music #historical-drama
 
 <hr>
 
-### Quotes
+## Quotes
 #quote 
 	"All I wanted was to sing to God. He gave me that longing... and then made me mute. Why? Tell me that. If He didn't want me to praise him with music, why implant the desire? Like a lust in my body! And then deny me the talent?"
 

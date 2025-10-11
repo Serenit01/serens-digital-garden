@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-11T12:57:31.592+11:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-11T12:59:11.701+11:00"}
 ---
 
 Amadeus is a film about an Italian musician/composer Antonio Salieri and his downfall as jealousy and resentment of Mozart begins to consume him. 
@@ -16,6 +16,7 @@ Themes: #jealousy #downfall #music #historical-drama
 	"From now on, we are enemies - You and I. Because You choose for Your instrument a boastful, lustful, smutty, infantile boy and give me for reward only the ability to recognize the incarnation. Because You are unjust, unfair, unkind, I will block You, I swear it. I will hinder and harm Your creature as far as I am able. I will ruin Your incarnation."
 
 <hr>
+
 ### First Watch-Through
 
 I watched this film one night at my Grandparents house on Grandad's recommendation after watching Phantom of the Opera the night before with him. 

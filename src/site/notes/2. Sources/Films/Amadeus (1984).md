@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-11T12:54:32.546+11:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/amadeus-1984/","title":"Amadeus","tags":["mediaDB/tv/movie","film"],"created":"2025-10-10T19:13:58.857+11:00","updated":"2025-10-11T12:55:51.744+11:00"}
 ---
 
 Amadeus is a film about an Italian musician/composer Antonio Salieri and his downfall as jealousy and resentment of Mozart begins to consume him. 
@@ -17,6 +17,7 @@ Themes: #jealousy #downfall #music #historical-drama
 
 <hr>
 ### First Watch-Through
+
 I watched this film one night at my Grandparents house on Grandad's recommendation after watching Phantom of the Opera the night before with him. 
 
 I loved this film. This is the exact kind of thing that first springs to mind when I think of filmmaking. It is technically amazing and the story is so fucking good. 

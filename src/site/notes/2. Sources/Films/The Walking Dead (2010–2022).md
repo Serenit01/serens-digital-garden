@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-10-19T12:41:21.542+11:00"}
+{"dg-publish":true,"permalink":"/2-sources/films/the-walking-dead-2010-2022/","title":"The Walking Dead","tags":["mediaDB/tv/series","tvshow"],"created":"2025-08-08T10:30:51.688+10:00","updated":"2025-10-30T19:42:29.614+11:00"}
 ---
 
 The Walking Dead is a TV show set during the zombie apocalypse and follows Rick Grimes, a cop who wakes up in a hospital after being shot earlier before the zombie uprising began and sets off to find his wife and son in this new version of the world. 
@@ -62,8 +62,17 @@ I just really don't like some the decisions the writers made, some of the decisi
 Episode 1:
 - I like this whole new vibe with Rick taking a bit of a step back from being leader and just trying to fix his shit. I also like that he's trying to force his son to do the same.
 - I really liked the bit where Carl finally decided to give being a kid a try again and go to story time, only for story time to actually be a farce that Carol made up to train the kids in basic survival and for Carl to be disappointed. I think that was some nice writing and very quickly and easily showed us where his head is at. 
-- I didn't like the whole lady in the woods thing. I think it was a stupid way to get Rick to face his problems, I feel like something like that should be an entire season journey, not just one random lady in the woods. It was a little too on the nose for my liking, hoping it gets better from here though. 
-- **I fucking loved the flu arc. That is how you write characters! This arc has brought back some hope that this season might not be so bad. Every single character got a moment and I really loved that. All their motives and reactions were clear and well written without beating you over the head with it. I loved every part of it. This was probably my favourite arc so far in the entire series!** 
+- I didn't like the whole lady in the woods thing. I think it was a stupid way to get Rick to face his problems, it was too external imo
+
+Random notes from across the season:
+- **I fucking loved the flu arc. That is how you write characters! This arc has brought back some hope that this season might not be so bad. Every single character got a moment and I really loved that. All their motives and reactions were clear and well written without beating you over the head with it. I loved every part of it. This was probably my favourite arc so far in the entire series!** I'm gonna come back and re-watch it later, it was so good.
+- The whole side arc with the governor made me feel sick, well done making a despicable man, I hate him.
+- I felt so sick the entire time the prison fight was happening. 
+- I really liked the whole episode with Rick and Carl by themselves. It was a really nice character development episode and for it to have a relatively happy ending was nice for a change!
+- I like that Glenn is getting some more time to shine now as well! 
+- I really loved everything with Beth and Daryl, it was really wholesome. I like that Daryl isn't letting his heart harden despite all the reasons he could let it happen. 
+- This 'save the world' guy is so fucking funny I love him
+- Not 100% sure how I feel about the cannibal arc, it was so short and weirdly done. I'm not sure if I am happy or not about the fact it was only two episodes long and hardly did anything in terms of character development. It once again felt like something that was there only for shock factor and yet another reminder (as if we need more) that this world is full of bad people and not much else. It was a bit lacklustre if I'm being honest. I think the walking dead game did it better and handled it in a more interesting way. 
 
 ###### Season 5:
 

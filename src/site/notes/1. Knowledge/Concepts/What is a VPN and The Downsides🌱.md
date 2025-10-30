@@ -8,7 +8,7 @@ It can be used to protect your internet activity and hide your identity online. 
 
 
 When you use a VPN, all your activity bypasses your [[ISP\|ISP]] and will be redirected to your VPN server. 
-It encrypts/hides your [[DNS\|DNS]] requests.
+It encrypts/hides your [[1. Knowledge/DNS\|DNS]] requests.
 
 
 Another upside of using a VPN is that can access region locked content, so you can choose a IP in a different country to gain access. This is a good way to combat [[censorship\|censorship]]. 

@@ -22,10 +22,10 @@ Random notes from my vault that I thought might be interesting to some people!
 { .block-language-dataview}
 
 ### History
+- [[1. Knowledge/Concepts/History/Ancient Greece/Ancient Greek Mythology 🌱\|Ancient Greek Mythology 🌱]]
 - [[1. Knowledge/Concepts/History/Ancient Greece/Ancient Greece🌳\|Ancient Greece🌳]]
 - [[1. Knowledge/Concepts/History/Ghost Ships/Ghost Ships 🌱\|Ghost Ships 🌱]]
 - [[1. Knowledge/Concepts/History/The Roman Empire/The Roman Empire 🌱\|The Roman Empire 🌱]]
-- [[1. Knowledge/Concepts/History/Ancient Greece/Ancient Greek Mythology 🌱\|Ancient Greek Mythology 🌱]]
 
 { .block-language-dataview}
 
@@ -66,8 +66,8 @@ I'm getting sick of consuming media and then forgetting them soon after. By writ
 ![[Film and TV Bases.base#Table]]
 | File                                                                                                                     | image                                                                                                                        | year      | genres                                                               |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------- |
-| [[2. Sources/Films/Amadeus (1984)\|Amadeus (1984)]]                                                                   | ![\|110](https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_SX300.jpg) | 1984      | <ul><li>Biography</li><li>Drama</li><li>Music</li></ul>              |
 | [[2. Sources/Films/The Lord Of The Rings\|The Lord Of The Rings]]                                                     | ![\|110](https://media.themoviedb.org/t/p/w220_and_h330_face/e8QEogibgnnQSrVfIhiBvOubAC9.jpg)                                | \-        | \-                                                                   |
+| [[2. Sources/Films/Amadeus (1984)\|Amadeus (1984)]]                                                                   | ![\|110](https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_SX300.jpg) | 1984      | <ul><li>Biography</li><li>Drama</li><li>Music</li></ul>              |
 | [[2. Sources/Films/The Fragrant Flower Blooms with Dignity (2025–)\|The Fragrant Flower Blooms with Dignity (2025–)]] | ![\|110](https://m.media-amazon.com/images/M/MV5BOWFlYTIxMmQtM2Y0Mi00NThhLWEwOWEtYjA0OTBlMjRkYTViXkEyXkFqcGc@._V1_SX300.jpg) | 2025      | <ul><li>Comedy</li><li>Drama</li><li>Anime</li><li>Romance</li></ul> |
 | [[2. Sources/Films/Star Trek - Deep Space Nine (1993–1999)\|Star Trek - Deep Space Nine (1993–1999)]]                 | ![\|110](https://m.media-amazon.com/images/M/MV5BMzg3Mzg5ZmYtYTZhNy00NTQ4LWFiYjAtODYxODBlNDViMzYxXkEyXkFqcGc@._V1_SX300.jpg) | 1993–1999 | <ul><li>Action</li><li>Adventure</li><li>Drama</li></ul>             |
 | [[2. Sources/Films/Better Call Saul (2015–2022)\|Better Call Saul (2015–2022)]]                                       | ![\|110](https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg) | 2015–2022 | <ul><li>Crime</li><li>Drama</li></ul>                                |
